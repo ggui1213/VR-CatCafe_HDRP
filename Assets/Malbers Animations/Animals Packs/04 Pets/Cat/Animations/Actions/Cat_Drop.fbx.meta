@@ -1,0 +1,555 @@
+fileFormatVersion: 2
+guid: 217a307846a6ba942911acab41c37ba9
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects: {}
+  materials:
+    materialImportMode: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Cat_Drop
+      takeName: Take 001
+      internalID: 1827226128182048838
+      firstFrame: 0
+      lastFrame: 96
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves:
+      - name: LookAt
+        curve:
+          serializedVersion: 2
+          curve:
+          - serializedVersion: 3
+            time: 0
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+            weightedMode: 0
+            inWeight: 0
+            outWeight: 0
+          - serializedVersion: 3
+            time: 1
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+            weightedMode: 0
+            inWeight: 0
+            outWeight: 0
+          preInfinity: 3
+          postInfinity: 3
+          rotationOrder: 4
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Cat_Drop_Mask
+      takeName: Take 001
+      internalID: -998496362607748373
+      firstFrame: 0
+      lastFrame: 96
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cat_Body
+        weight: 0
+      - path: Cat_Body PA
+        weight: 0
+      - path: Cat_Claws
+        weight: 0
+      - path: Cat_Eyes
+        weight: 0
+      - path: Cat_Fur
+        weight: 0
+      - path: Cat_Mouth
+        weight: 0
+      - path: Cat_Wiskers
+        weight: 0
+      - path: CG
+        weight: 0
+      - path: CG/ Footsteps
+        weight: 0
+      - path: CG/Pelvis
+        weight: 0
+      - path: CG/Pelvis/L Thigh
+        weight: 0
+      - path: CG/Pelvis/L Thigh/L Calf
+        weight: 0
+      - path: CG/Pelvis/L Thigh/L Calf/L HorseLink
+        weight: 0
+      - path: CG/Pelvis/L Thigh/L Calf/L HorseLink/L Foot
+        weight: 0
+      - path: CG/Pelvis/L Thigh/L Calf/L HorseLink/L Foot/L Toe0
+        weight: 0
+      - path: CG/Pelvis/L Thigh/L Calf/L HorseLink/L Foot/L Toe0/L Toe01
+        weight: 0
+      - path: CG/Pelvis/L Thigh/L Calf/L HorseLink/L Foot/L Toe0/L Toe01/ L Toe0Nub
+        weight: 0
+      - path: CG/Pelvis/L Thigh/L Calf/L HorseLink/L Foot/L Toe0/Toe01 L
+        weight: 0
+      - path: CG/Pelvis/L Thigh/L Calf/L HorseLink/L Foot/L Toe0/Toe02 L
+        weight: 0
+      - path: CG/Pelvis/L Thigh/L Calf/L HorseLink/L Foot/L Toe0/Toe03 L
+        weight: 0
+      - path: CG/Pelvis/L Thigh/L Calf/L HorseLink/L Foot/L Toe0/Toe04 L
+        weight: 0
+      - path: CG/Pelvis/L Thigh/L Calf/L HorseLink/L Foot/L Toe0/z_L Toe Spread
+        weight: 0
+      - path: CG/Pelvis/L Thigh/L Calf/L HorseLink/L Foot/L Toe0/z_L Toe Spread/CG
+          z_L Toe SpreadNub
+        weight: 0
+      - path: CG/Pelvis/R Thigh
+        weight: 0
+      - path: CG/Pelvis/R Thigh/R Calf
+        weight: 0
+      - path: CG/Pelvis/R Thigh/R Calf/R HorseLink
+        weight: 0
+      - path: CG/Pelvis/R Thigh/R Calf/R HorseLink/R Foot
+        weight: 0
+      - path: CG/Pelvis/R Thigh/R Calf/R HorseLink/R Foot/R Toe0
+        weight: 0
+      - path: CG/Pelvis/R Thigh/R Calf/R HorseLink/R Foot/R Toe0/R Toe01
+        weight: 0
+      - path: CG/Pelvis/R Thigh/R Calf/R HorseLink/R Foot/R Toe0/R Toe01/ R Toe0Nub
+        weight: 0
+      - path: CG/Pelvis/R Thigh/R Calf/R HorseLink/R Foot/R Toe0/Toe01 R
+        weight: 0
+      - path: CG/Pelvis/R Thigh/R Calf/R HorseLink/R Foot/R Toe0/Toe02 R
+        weight: 0
+      - path: CG/Pelvis/R Thigh/R Calf/R HorseLink/R Foot/R Toe0/Toe03 R
+        weight: 0
+      - path: CG/Pelvis/R Thigh/R Calf/R HorseLink/R Foot/R Toe0/Toe04 R
+        weight: 0
+      - path: CG/Pelvis/R Thigh/R Calf/R HorseLink/R Foot/R Toe0/z_R Toe Spread
+        weight: 0
+      - path: CG/Pelvis/R Thigh/R Calf/R HorseLink/R Foot/R Toe0/z_R Toe Spread/CG
+          z_R Toe SpreadNub
+        weight: 0
+      - path: CG/Pelvis/Spine
+        weight: 0
+      - path: CG/Pelvis/Spine/Spine1
+        weight: 0
+      - path: CG/Pelvis/Spine/Spine1/Spine2
+        weight: 0
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Clavicle Ext L
+        weight: 0
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Clavicle Ext L/ Clavicle Ext LNub
+        weight: 0
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Clavicle Ext R
+        weight: 0
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Clavicle Ext R/ Clavicle Ext RNub
+        weight: 0
+      - path: CG/Pelvis/Spine/Spine1/Spine2/L Clavicle
+        weight: 0
+      - path: CG/Pelvis/Spine/Spine1/Spine2/L Clavicle/L UpperArm
+        weight: 0
+      - path: CG/Pelvis/Spine/Spine1/Spine2/L Clavicle/L UpperArm/L Forearm
+        weight: 0
+      - path: CG/Pelvis/Spine/Spine1/Spine2/L Clavicle/L UpperArm/L Forearm/L Hand
+        weight: 0
+      - path: CG/Pelvis/Spine/Spine1/Spine2/L Clavicle/L UpperArm/L Forearm/L Hand/L
+          Finger0
+        weight: 0
+      - path: CG/Pelvis/Spine/Spine1/Spine2/L Clavicle/L UpperArm/L Forearm/L Hand/L
+          Finger0/L Finger01
+        weight: 0
+      - path: CG/Pelvis/Spine/Spine1/Spine2/L Clavicle/L UpperArm/L Forearm/L Hand/L
+          Finger0/L Finger01/L Finger02
+        weight: 0
+      - path: CG/Pelvis/Spine/Spine1/Spine2/L Clavicle/L UpperArm/L Forearm/L Hand/L
+          Finger0/L Finger01/L Finger02/Finger01 L
+        weight: 0
+      - path: CG/Pelvis/Spine/Spine1/Spine2/L Clavicle/L UpperArm/L Forearm/L Hand/L
+          Finger0/L Finger01/L Finger02/Finger02 L
+        weight: 0
+      - path: CG/Pelvis/Spine/Spine1/Spine2/L Clavicle/L UpperArm/L Forearm/L Hand/L
+          Finger0/L Finger01/L Finger02/Finger03 L
+        weight: 0
+      - path: CG/Pelvis/Spine/Spine1/Spine2/L Clavicle/L UpperArm/L Forearm/L Hand/L
+          Finger0/L Finger01/L Finger02/Finger04 L
+        weight: 0
+      - path: CG/Pelvis/Spine/Spine1/Spine2/L Clavicle/L UpperArm/L Forearm/L Hand/L
+          Finger0/L Finger01/L Finger02/L Finger03
+        weight: 0
+      - path: CG/Pelvis/Spine/Spine1/Spine2/L Clavicle/L UpperArm/L Forearm/L Hand/L
+          Finger0/L Finger01/L Finger02/L Finger03/ L Finger0Nub
+        weight: 0
+      - path: CG/Pelvis/Spine/Spine1/Spine2/L Clavicle/L UpperArm/L Forearm/L Hand/L
+          Finger0/L Finger01/L Finger02/z_L Finger Spread
+        weight: 0
+      - path: CG/Pelvis/Spine/Spine1/Spine2/L Clavicle/L UpperArm/L Forearm/L Hand/L
+          Finger0/L Finger01/L Finger02/z_L Finger Spread/CG z_L Finger SpreadNub
+        weight: 0
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck1
+        weight: 0
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck1/Neck2
+        weight: 0
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck1/Neck2/Head
+        weight: 0
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck1/Neck2/Head/ HeadNub
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck1/Neck2/Head/Ear01 L
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck1/Neck2/Head/Ear01 L/Ear02 L
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck1/Neck2/Head/Ear01 L/Ear02 L/ Ponytail1Nub
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck1/Neck2/Head/Ear01 R
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck1/Neck2/Head/Ear01 R/Ear02 R
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck1/Neck2/Head/Ear01 R/Ear02 R/ Ponytail2Nub
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck1/Neck2/Head/Eye Core L
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck1/Neck2/Head/Eye Core L/ Eye Core
+          LNub
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck1/Neck2/Head/Eye Core L/Eye L
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck1/Neck2/Head/Eye Core L/Eye L/ Eye
+          LNub
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck1/Neck2/Head/Eye Core L/Eye Lid Lower
+          L
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck1/Neck2/Head/Eye Core L/Eye Lid Lower
+          L/ Eye Lid Lower LNub
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck1/Neck2/Head/Eye Core L/Eye Lid Upper
+          L
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck1/Neck2/Head/Eye Core L/Eye Lid Upper
+          L/ Eye Lid Upper LNub
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck1/Neck2/Head/Eye Core L/Eyebrown
+          L
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck1/Neck2/Head/Eye Core L/Eyebrown
+          L/CG Eyebrown LNub
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck1/Neck2/Head/Eye Core R
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck1/Neck2/Head/Eye Core R/ Eye Core
+          RNub
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck1/Neck2/Head/Eye Core R/Eye Lid Lower
+          R
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck1/Neck2/Head/Eye Core R/Eye Lid Lower
+          R/ Eye Lid Lower RNub
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck1/Neck2/Head/Eye Core R/Eye Lid Upper
+          R
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck1/Neck2/Head/Eye Core R/Eye Lid Upper
+          R/ Eye Lid Upper RNub
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck1/Neck2/Head/Eye Core R/Eye R
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck1/Neck2/Head/Eye Core R/Eye R/ Eye
+          RNub
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck1/Neck2/Head/Eye Core R/Eyebrown
+          R
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck1/Neck2/Head/Eye Core R/Eyebrown
+          R/CG Eyebrown RNub
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck1/Neck2/Head/Jaw
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck1/Neck2/Head/Jaw/ JawNub
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck1/Neck2/Head/Jaw/Lip Lower0 L
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck1/Neck2/Head/Jaw/Lip Lower0 L/ Lip
+          Lower0 LNub
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck1/Neck2/Head/Jaw/Lip Lower0 R
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck1/Neck2/Head/Jaw/Lip Lower0 R/ Lip
+          Lower0 RNub
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck1/Neck2/Head/Jaw/Lip Lower1 L
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck1/Neck2/Head/Jaw/Lip Lower1 L/ Lip
+          Lower1 LNub
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck1/Neck2/Head/Jaw/Lip Lower1 R
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck1/Neck2/Head/Jaw/Lip Lower1 R/ Lip
+          Lower1 RNub
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck1/Neck2/Head/Jaw/Tongue
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck1/Neck2/Head/Jaw/Tongue/Tongue02
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck1/Neck2/Head/Jaw/Tongue/Tongue02/Tongue03
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck1/Neck2/Head/Jaw/Tongue/Tongue02/Tongue03/
+          TongueNub
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck1/Neck2/Head/Lip Middle L
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck1/Neck2/Head/Lip Middle L/Lip Middle
+          LNub
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck1/Neck2/Head/Lip Middle R
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck1/Neck2/Head/Lip Middle R/Lip Middle
+          RNub
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck1/Neck2/Head/Snout
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck1/Neck2/Head/Snout/Cheek L
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck1/Neck2/Head/Snout/Cheek L/Cheek
+          LNub
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck1/Neck2/Head/Snout/Cheek R
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck1/Neck2/Head/Snout/Cheek R/Cheek
+          RNub
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck1/Neck2/Head/Snout/Lip Upper 0 L
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck1/Neck2/Head/Snout/Lip Upper 0 L/
+          Lip Upper 0 LNub
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck1/Neck2/Head/Snout/Lip Upper 0 R
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck1/Neck2/Head/Snout/Lip Upper 0 R/
+          Lip Upper 0 RNub
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck1/Neck2/Head/Snout/Lip Upper 1 L
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck1/Neck2/Head/Snout/Lip Upper 1 L/
+          Lip Upper 1 LNub
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck1/Neck2/Head/Snout/Lip Upper 1 R
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck1/Neck2/Head/Snout/Lip Upper 1 R/
+          Lip Upper 1 RNub
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck1/Neck2/Head/Snout/Nose
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck1/Neck2/Head/Snout/Nose/ NoseNub
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck1/Neck2/Head/Snout/SnoutNub
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/R Clavicle
+        weight: 0
+      - path: CG/Pelvis/Spine/Spine1/Spine2/R Clavicle/R UpperArm
+        weight: 0
+      - path: CG/Pelvis/Spine/Spine1/Spine2/R Clavicle/R UpperArm/R Forearm
+        weight: 0
+      - path: CG/Pelvis/Spine/Spine1/Spine2/R Clavicle/R UpperArm/R Forearm/R Hand
+        weight: 0
+      - path: CG/Pelvis/Spine/Spine1/Spine2/R Clavicle/R UpperArm/R Forearm/R Hand/R
+          Finger0
+        weight: 0
+      - path: CG/Pelvis/Spine/Spine1/Spine2/R Clavicle/R UpperArm/R Forearm/R Hand/R
+          Finger0/R Finger01
+        weight: 0
+      - path: CG/Pelvis/Spine/Spine1/Spine2/R Clavicle/R UpperArm/R Forearm/R Hand/R
+          Finger0/R Finger01/R Finger02
+        weight: 0
+      - path: CG/Pelvis/Spine/Spine1/Spine2/R Clavicle/R UpperArm/R Forearm/R Hand/R
+          Finger0/R Finger01/R Finger02/Finger01 R
+        weight: 0
+      - path: CG/Pelvis/Spine/Spine1/Spine2/R Clavicle/R UpperArm/R Forearm/R Hand/R
+          Finger0/R Finger01/R Finger02/Finger02 R
+        weight: 0
+      - path: CG/Pelvis/Spine/Spine1/Spine2/R Clavicle/R UpperArm/R Forearm/R Hand/R
+          Finger0/R Finger01/R Finger02/Finger03 R
+        weight: 0
+      - path: CG/Pelvis/Spine/Spine1/Spine2/R Clavicle/R UpperArm/R Forearm/R Hand/R
+          Finger0/R Finger01/R Finger02/Finger04 R
+        weight: 0
+      - path: CG/Pelvis/Spine/Spine1/Spine2/R Clavicle/R UpperArm/R Forearm/R Hand/R
+          Finger0/R Finger01/R Finger02/R Finger03
+        weight: 0
+      - path: CG/Pelvis/Spine/Spine1/Spine2/R Clavicle/R UpperArm/R Forearm/R Hand/R
+          Finger0/R Finger01/R Finger02/R Finger03/ R Finger0Nub
+        weight: 0
+      - path: CG/Pelvis/Spine/Spine1/Spine2/R Clavicle/R UpperArm/R Forearm/R Hand/R
+          Finger0/R Finger01/R Finger02/z_R Finger Spread
+        weight: 0
+      - path: CG/Pelvis/Spine/Spine1/Spine2/R Clavicle/R UpperArm/R Forearm/R Hand/R
+          Finger0/R Finger01/R Finger02/z_R Finger Spread/CG z_R Finger SpreadNub
+        weight: 0
+      - path: CG/Pelvis/Tail01
+        weight: 0
+      - path: CG/Pelvis/Tail01/Tail02
+        weight: 0
+      - path: CG/Pelvis/Tail01/Tail02/Tail03
+        weight: 0
+      - path: CG/Pelvis/Tail01/Tail02/Tail03/Tail04
+        weight: 0
+      - path: CG/Pelvis/Tail01/Tail02/Tail03/Tail04/Tail05
+        weight: 0
+      - path: CG/Pelvis/Tail01/Tail02/Tail03/Tail04/Tail05/Tail06
+        weight: 0
+      - path: CG/Pelvis/Tail01/Tail02/Tail03/Tail04/Tail05/Tail06/ TailNub
+        weight: 0
+      - path: Omni001
+        weight: 0
+      - path: Omni002
+        weight: 0
+      - path: Omni003
+        weight: 0
+      - path: Plane001
+        weight: 0
+      - path: Root
+        weight: 0
+      - path: Sky001
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: CG
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: e4787d9893583de4e88559fedaffbc85,
+    type: 3}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 2
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 326824
+  packageName: Milo the Cat
+  packageVersion: 1.01a
+  assetPath: Assets/Malbers Animations/Animals Packs/04 Pets/Cat/Animations/Actions/Cat_Drop.fbx
+  uploadId: 953606

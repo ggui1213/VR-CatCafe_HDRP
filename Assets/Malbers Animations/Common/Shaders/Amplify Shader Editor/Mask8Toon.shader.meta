@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 605d1e14bd910db49aa50378eb8e118c
+labels:
+- AllCreature
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 326824
+  packageName: Milo the Cat
+  packageVersion: 1.01a
+  assetPath: Assets/Malbers Animations/Common/Shaders/Amplify Shader Editor/Mask8Toon.shader
+  uploadId: 953606

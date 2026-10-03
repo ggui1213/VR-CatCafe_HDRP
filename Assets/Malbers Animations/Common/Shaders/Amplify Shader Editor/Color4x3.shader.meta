@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 365d78d112d33ff4bb96ef713a3af84b
+labels:
+- AllCreature
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _Gradient: {fileID: 2800000, guid: 0f424a347039ef447a763d3d4b4782b0, type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 326824
+  packageName: Milo the Cat
+  packageVersion: 1.01a
+  assetPath: Assets/Malbers Animations/Common/Shaders/Amplify Shader Editor/Color4x3.shader
+  uploadId: 953606

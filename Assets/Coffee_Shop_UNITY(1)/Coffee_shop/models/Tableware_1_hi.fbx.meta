@@ -1,0 +1,146 @@
+fileFormatVersion: 2
+guid: 3b2258b0643e0a84bac1facc52ffe5b9
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Tableware_1
+    100004: Tableware_1.002
+    100006: Tableware_1_1
+    100008: Tableware_1.001
+    100010: Tableware_1_fork
+    100012: Tableware_1_knife
+    100014: Tableware_1_napkin
+    100016: Tableware_1_spoon
+    400000: //RootNode
+    400002: Tableware_1
+    400004: Tableware_1.002
+    400006: Tableware_1_1
+    400008: Tableware_1.001
+    400010: Tableware_1_fork
+    400012: Tableware_1_knife
+    400014: Tableware_1_napkin
+    400016: Tableware_1_spoon
+    2300000: //RootNode
+    2300002: Tableware_1
+    2300004: Tableware_1.002
+    2300006: Tableware_1_1
+    2300008: Tableware_1.001
+    2300010: Tableware_1_fork
+    2300012: Tableware_1_knife
+    2300014: Tableware_1_napkin
+    2300016: Tableware_1_spoon
+    3300000: //RootNode
+    3300002: Tableware_1
+    3300004: Tableware_1.002
+    3300006: Tableware_1_1
+    3300008: Tableware_1.001
+    3300010: Tableware_1_fork
+    3300012: Tableware_1_knife
+    3300014: Tableware_1_napkin
+    3300016: Tableware_1_spoon
+    4300000: Tableware_1
+    4300002: Tableware_1.002
+    4300004: Tableware_1.001
+    4300006: Tableware_1_1
+    4300008: Tableware_1_napkin
+    4300010: Tableware_1_knife
+    4300012: Tableware_1_fork
+    4300014: Tableware_1_spoon
+    6400000: Tableware_1
+    6400002: Tableware_1_1
+    6400004: Tableware_1_fork
+    6400006: Tableware_1_knife
+    6400008: Tableware_1_napkin
+    6400010: Tableware_1_spoon
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tableware_1
+    second: {fileID: 2100000, guid: 1ae90b8be24a623448ec54d5ce512670, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

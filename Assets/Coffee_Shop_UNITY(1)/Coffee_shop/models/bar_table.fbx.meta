@@ -1,0 +1,142 @@
+fileFormatVersion: 2
+guid: 847080d9bb6e12a48b137b76cf881b6c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: bar_table
+    100004: bar_table_2
+    100006: bar_table_box
+    100008: bar_table_box_door
+    100010: bar_table_sink
+    100012: bar_table_sink_1
+    400000: //RootNode
+    400002: bar_table
+    400004: bar_table_2
+    400006: bar_table_box
+    400008: bar_table_box_door
+    400010: bar_table_sink
+    400012: bar_table_sink_1
+    2300000: //RootNode
+    2300002: bar_table
+    2300004: bar_table_2
+    2300006: bar_table_box
+    2300008: bar_table_box_door
+    2300010: bar_table_sink
+    2300012: bar_table_sink_1
+    3300000: //RootNode
+    3300002: bar_table
+    3300004: bar_table_2
+    3300006: bar_table_box
+    3300008: bar_table_box_door
+    3300010: bar_table_sink
+    3300012: bar_table_sink_1
+    4300000: bar_table
+    4300002: bar_table_box_door
+    4300004: bar_table_sink_1
+    4300006: bar_table_box
+    4300008: bar_table_sink
+    4300010: bar_table_2
+    6400000: bar_table
+    6400002: bar_table_2
+    6400004: bar_table_box
+    6400006: bar_table_box_door
+    6400008: bar_table_sink
+    6400010: bar_table_sink_1
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bar_table
+    second: {fileID: 2100000, guid: 44ea0edad3180784eb5ffd62a53f9eaf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bar_table_glass
+    second: {fileID: 2100000, guid: 6fa96232201850c46b440a3e665a85df, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
