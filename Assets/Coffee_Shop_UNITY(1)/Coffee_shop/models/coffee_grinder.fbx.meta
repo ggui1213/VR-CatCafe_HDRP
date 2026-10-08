@@ -1,0 +1,145 @@
+fileFormatVersion: 2
+guid: a55e918b1b02f8342871cda162e03e72
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Circle.005
+    100002: //RootNode
+    100004: grinder
+    100006: grinder_1
+    100008: grinder_2
+    100010: grinder_glass
+    100012: grinder_glass_2
+    100014: grinder_glass_2_cap
+    400000: Circle.005
+    400002: //RootNode
+    400004: grinder
+    400006: grinder_1
+    400008: grinder_2
+    400010: grinder_glass
+    400012: grinder_glass_2
+    400014: grinder_glass_2_cap
+    2300000: Circle.005
+    2300002: grinder
+    2300004: grinder_1
+    2300006: grinder_2
+    2300008: grinder_glass
+    2300010: grinder_glass_2
+    2300012: grinder_glass_2_cap
+    3300000: Circle.005
+    3300002: grinder
+    3300004: grinder_1
+    3300006: grinder_2
+    3300008: grinder_glass
+    3300010: grinder_glass_2
+    3300012: grinder_glass_2_cap
+    4300000: grinder_2
+    4300002: Circle.005
+    4300004: grinder_1
+    4300006: grinder_glass_2_cap
+    4300008: grinder_glass_2
+    4300010: grinder_glass
+    4300012: grinder
+    6400000: Circle.005
+    6400002: grinder
+    6400004: grinder_1
+    6400006: grinder_2
+    6400008: grinder_glass
+    6400010: grinder_glass_2
+    6400012: grinder_glass_2_cap
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grinder
+    second: {fileID: 2100000, guid: 8ca8a666a4f2e12438d1af242579ca96, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grinder_glass
+    second: {fileID: 2100000, guid: 248110ab4113cb94cb9189a0f8a37a95, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

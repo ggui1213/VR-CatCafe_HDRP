@@ -1,0 +1,197 @@
+fileFormatVersion: 2
+guid: eff9825c48074b64b9a3da4cb6cf80e3
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: coffee_machine
+    100002: coffee_machine.001
+    100004: coffee_machine.002
+    100006: coffee_machine_1
+    100008: //RootNode
+    100010: coffee_machine_2
+    100012: coffee_machine_arrow
+    100014: coffee_machine_bowl_1
+    100016: coffee_machine_bowl_2
+    100018: coffee_machine_key_1
+    100020: coffee_machine_key_2
+    100022: coffee_machine_scale
+    100024: coffee_machine_turn_1
+    100026: coffee_machine_turn_2
+    400000: coffee_machine
+    400002: coffee_machine.001
+    400004: coffee_machine.002
+    400006: coffee_machine_1
+    400008: //RootNode
+    400010: coffee_machine_2
+    400012: coffee_machine_arrow
+    400014: coffee_machine_bowl_1
+    400016: coffee_machine_bowl_2
+    400018: coffee_machine_key_1
+    400020: coffee_machine_key_2
+    400022: coffee_machine_scale
+    400024: coffee_machine_turn_1
+    400026: coffee_machine_turn_2
+    2300000: coffee_machine
+    2300002: coffee_machine.001
+    2300004: coffee_machine.002
+    2300006: coffee_machine_1
+    2300008: coffee_machine_2
+    2300010: coffee_machine_arrow
+    2300012: coffee_machine_bowl_1
+    2300014: coffee_machine_bowl_2
+    2300016: coffee_machine_key_1
+    2300018: coffee_machine_key_2
+    2300020: coffee_machine_scale
+    2300022: coffee_machine_turn_1
+    2300024: coffee_machine_turn_2
+    3300000: coffee_machine
+    3300002: coffee_machine.001
+    3300004: coffee_machine.002
+    3300006: coffee_machine_1
+    3300008: coffee_machine_2
+    3300010: coffee_machine_arrow
+    3300012: coffee_machine_bowl_1
+    3300014: coffee_machine_bowl_2
+    3300016: coffee_machine_key_1
+    3300018: coffee_machine_key_2
+    3300020: coffee_machine_scale
+    3300022: coffee_machine_turn_1
+    3300024: coffee_machine_turn_2
+    4300000: coffee_machine.002
+    4300002: coffee_machine.001
+    4300004: coffee_machine_key_2
+    4300006: coffee_machine_scale
+    4300008: coffee_machine_arrow
+    4300010: coffee_machine_key_1
+    4300012: coffee_machine_1
+    4300014: coffee_machine_2
+    4300016: coffee_machine_turn_1
+    4300018: coffee_machine_bowl_2
+    4300020: coffee_machine_bowl_1
+    4300022: coffee_machine_turn_2
+    4300024: coffee_machine
+    6400000: coffee_machine
+    6400002: coffee_machine.001
+    6400004: coffee_machine.002
+    6400006: coffee_machine_1
+    6400008: coffee_machine_2
+    6400010: coffee_machine_arrow
+    6400012: coffee_machine_bowl_1
+    6400014: coffee_machine_bowl_2
+    6400016: coffee_machine_key_1
+    6400018: coffee_machine_key_2
+    6400020: coffee_machine_scale
+    6400022: coffee_machine_turn_1
+    6400024: coffee_machine_turn_2
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: coffee machine
+    second: {fileID: 2100000, guid: 03bdcdc4c6447054f85f0312e3b8752f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: coffee_machine_key
+    second: {fileID: 2100000, guid: 9ff23cf8275b57548b05b50a8532e1ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: coffee_machine_scale
+    second: {fileID: 2100000, guid: 47baf5b0f126ba94782f6b3d562c3377, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: coffee_machine_screen
+    second: {fileID: 2100000, guid: 2f2a37ead2395dd409da589e4a09238c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass
+    second: {fileID: 2100000, guid: 9caa7c94cf1f7214e806672cd3be1c11, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
