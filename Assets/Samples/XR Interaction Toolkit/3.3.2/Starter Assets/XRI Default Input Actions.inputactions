@@ -469,7 +469,7 @@
                 {
                     "name": "first",
                     "id": "afdcfbff-e241-4fdd-a6d1-23b0bf273360",
-                    "path": "<XRController>{LeftHand}/pointerRotation",
+                    "path": "<TrackedDevice>{LeftHand}/deviceRotation",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
@@ -480,7 +480,7 @@
                 {
                     "name": "second",
                     "id": "ed03d944-4c09-4c38-8b68-5c844e18ca7c",
-                    "path": "<XRController>{LeftHand}/deviceRotation",
+                    "path": "<TrackedDevice>{LeftHand}/pointerRotation",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
@@ -491,7 +491,7 @@
                 {
                     "name": "third",
                     "id": "c98fc8c8-7fc6-4909-89b6-c5b7568e7275",
-                    "path": "<XRHandDevice>{LeftHand}/deviceRotation",
+                    "path": "",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
@@ -513,7 +513,7 @@
                 {
                     "name": "first",
                     "id": "abf752ec-feee-4d51-b530-f0870f48acc9",
-                    "path": "<XRController>{LeftHand}/pointerPosition",
+                    "path": "<TrackedDevice>{LeftHand}/devicePosition",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
@@ -524,7 +524,7 @@
                 {
                     "name": "second",
                     "id": "6580b669-0651-401c-9779-85ef22689130",
-                    "path": "<XRController>{LeftHand}/devicePosition",
+                    "path": "<TrackedDevice>{LeftHand}/pointerPosition",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
@@ -535,7 +535,7 @@
                 {
                     "name": "third",
                     "id": "ae101942-9eaa-4c53-a388-cafc3fd89bdf",
-                    "path": "<XRHandDevice>{LeftHand}/devicePosition",
+                    "path": "",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
@@ -546,7 +546,7 @@
                 {
                     "name": "",
                     "id": "acdf9550-5529-4ff7-8558-73ecdf0d75bd",
-                    "path": "<XRController>{LeftHand}/*",
+                    "path": "<TrackedDevice>{LeftHand}/*",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
@@ -557,7 +557,7 @@
                 {
                     "name": "",
                     "id": "97a0351f-659b-482a-8fa0-19015ccd055e",
-                    "path": "<XRController>{LeftHand}/trackingState",
+                    "path": "<TrackedDevice>{LeftHand}/trackingState",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
@@ -568,7 +568,7 @@
                 {
                     "name": "",
                     "id": "34454fec-7610-497a-b1a5-d3d5f01b312c",
-                    "path": "<XRHandDevice>{LeftHand}/trackingState",
+                    "path": "",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
@@ -799,7 +799,7 @@
                 {
                     "name": "",
                     "id": "f1de7b81-80d1-4207-8f19-4fb96a537bb3",
-                    "path": "<XRController>{LeftHand}/isTracked",
+                    "path": "<TrackedDevice>{LeftHand}/isTracked",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
@@ -810,7 +810,7 @@
                 {
                     "name": "",
                     "id": "d9f33fe3-b3bf-48c1-a8bc-dd6a4ddfba94",
-                    "path": "<XRHandDevice>{LeftHand}/isTracked",
+                    "path": "",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
@@ -854,7 +854,7 @@
                 {
                     "name": "",
                     "id": "0123e5fd-aec0-4ab3-b201-2e6c65d2b93e",
-                    "path": "<XRController>{LeftHand}/{Primary2DAxis}",
+                    "path": "<TrackedDevice>{LeftHand}/{Primary2DAxis}",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
@@ -981,7 +981,7 @@
                 {
                     "name": "",
                     "id": "71a4d23f-3e9a-4513-923b-ba388c5e84bf",
-                    "path": "<XRController>{LeftHand}/{GripButton}",
+                    "path": "<TrackedDevice>{LeftHand}/{GripButton}",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
@@ -1047,7 +1047,7 @@
                 {
                     "name": "",
                     "id": "49a23327-a116-48c0-8af9-0d2c50c15a88",
-                    "path": "<XRController>{LeftHand}/{Grip}",
+                    "path": "<TrackedDevice>{LeftHand}/{Grip}",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
@@ -1102,7 +1102,7 @@
                 {
                     "name": "",
                     "id": "487f4f2e-9e9b-49aa-b0f2-4037a24624f5",
-                    "path": "<XRController>{LeftHand}/{TriggerButton}",
+                    "path": "<TrackedDevice>{LeftHand}/{TriggerButton}",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
@@ -1113,7 +1113,7 @@
                 {
                     "name": "",
                     "id": "3b8b1b59-2fdc-4998-8259-50341075d9a2",
-                    "path": "<XRController>{LeftHand}/{Trigger}",
+                    "path": "<TrackedDevice>{LeftHand}/{Trigger}",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
@@ -1124,7 +1124,7 @@
                 {
                     "name": "",
                     "id": "b34c79c1-ab5e-4851-87ac-abc43705eae0",
-                    "path": "<XRController>{LeftHand}/{TriggerButton}",
+                    "path": "<TrackedDevice>{LeftHand}/{TriggerButton}",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
@@ -1179,7 +1179,7 @@
                 {
                     "name": "",
                     "id": "71d94579-1bf4-4034-ab9e-e7166842128f",
-                    "path": "<XRController>{LeftHand}/{Trigger}",
+                    "path": "<TrackedDevice>{LeftHand}/{Trigger}",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
@@ -1223,7 +1223,7 @@
                 {
                     "name": "",
                     "id": "8ed313a6-c966-4669-8a62-4bb2319d485b",
-                    "path": "<XRController>{LeftHand}/{Primary2DAxis}",
+                    "path": "<TrackedDevice>{LeftHand}/{Primary2DAxis}",
                     "interactions": "",
                     "processors": "ScaleVector2(y=0),StickDeadzone",
                     "groups": "",
@@ -1234,7 +1234,7 @@
                 {
                     "name": "",
                     "id": "7b30ca4b-9f98-4a44-9af5-a89412d5cdc8",
-                    "path": "<XRController>{LeftHand}/{Primary2DAxis}",
+                    "path": "<TrackedDevice>{LeftHand}/{Primary2DAxis}",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
@@ -1245,7 +1245,7 @@
                 {
                     "name": "",
                     "id": "8f872fc5-75dc-49e5-9bbd-f2e4d4498c65",
-                    "path": "<XRController>{LeftHand}/{Primary2DAxisClick}",
+                    "path": "<TrackedDevice>{LeftHand}/{Primary2DAxisClick}",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
@@ -1256,7 +1256,7 @@
                 {
                     "name": "",
                     "id": "b21d690b-51fc-413f-a887-08a2a39af3fc",
-                    "path": "<XRController>{LeftHand}/{Primary2DAxis}",
+                    "path": "<TrackedDevice>{LeftHand}/{Primary2DAxis}",
                     "interactions": "",
                     "processors": "ScaleVector2(x=0),StickDeadzone",
                     "groups": "",
@@ -1267,7 +1267,7 @@
                 {
                     "name": "",
                     "id": "5fe0ed53-b4d3-4cd8-b567-397a7d1e1c6a",
-                    "path": "<XRController>{LeftHand}/{Primary2DAxis}",
+                    "path": "<TrackedDevice>{LeftHand}/{Primary2DAxis}",
                     "interactions": "",
                     "processors": "StickDeadzone",
                     "groups": "",
@@ -1278,7 +1278,7 @@
                 {
                     "name": "",
                     "id": "370f21e3-a80b-4b07-990b-299c2da0929a",
-                    "path": "<XRController>{LeftHand}/{Primary2DAxis}",
+                    "path": "<TrackedDevice>{LeftHand}/{Primary2DAxis}",
                     "interactions": "",
                     "processors": "ScaleVector2(x=0),StickDeadzone",
                     "groups": "",
@@ -1351,7 +1351,7 @@
                 {
                     "name": "",
                     "id": "8da6ed3a-f621-49fe-8c76-1f6b7d7754d6",
-                    "path": "<XRController>{LeftHand}/{Primary2DAxis}",
+                    "path": "<TrackedDevice>{LeftHand}/{Primary2DAxis}",
                     "interactions": "Sector(directions=1)",
                     "processors": "",
                     "groups": "",
@@ -1362,7 +1362,7 @@
                 {
                     "name": "",
                     "id": "b8aebee7-fa03-43d4-bfb7-77a3f87452cc",
-                    "path": "<XRController>{LeftHand}/{GripButton}",
+                    "path": "<TrackedDevice>{LeftHand}/{GripButton}",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
@@ -1373,7 +1373,7 @@
                 {
                     "name": "",
                     "id": "99cb7ad1-51ec-4611-af68-92a85f2c17d6",
-                    "path": "<XRController>{LeftHand}/{Primary2DAxis}",
+                    "path": "<TrackedDevice>{LeftHand}/{Primary2DAxis}",
                     "interactions": "Sector(directions=12,sweepBehavior=1),Sector(directions=2,sweepBehavior=2)",
                     "processors": "",
                     "groups": "",
@@ -1384,7 +1384,7 @@
                 {
                     "name": "",
                     "id": "8e383b1a-270f-4c20-819b-89a59cffb498",
-                    "path": "<XRController>{LeftHand}/{Primary2DAxis}",
+                    "path": "<TrackedDevice>{LeftHand}/{Primary2DAxis}",
                     "interactions": "",
                     "processors": "StickDeadzone",
                     "groups": "",
@@ -1395,7 +1395,7 @@
                 {
                     "name": "",
                     "id": "9e2fa814-8cbd-4c65-a60d-a1503f30ffd8",
-                    "path": "<XRController>{LeftHand}/{GripButton}",
+                    "path": "<TrackedDevice>{LeftHand}/{GripButton}",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
@@ -1406,7 +1406,7 @@
                 {
                     "name": "",
                     "id": "a46b49d0-0754-4dac-a9a5-a822e10751f2",
-                    "path": "<XRController>{LeftHand}/{Primary2DAxis}",
+                    "path": "<TrackedDevice>{LeftHand}/{Primary2DAxis}",
                     "interactions": "Sector(directions=12,sweepBehavior=1),Sector(directions=2,sweepBehavior=2)",
                     "processors": "",
                     "groups": "",
@@ -1562,7 +1562,7 @@
                 {
                     "name": "first",
                     "id": "3722d501-eb80-4f61-9361-08a5ea7a1394",
-                    "path": "<XRController>{RightHand}/pointerRotation",
+                    "path": "<TrackedDevice>{RightHand}/deviceRotation",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
@@ -1573,7 +1573,7 @@
                 {
                     "name": "second",
                     "id": "2e6ad191-d5aa-4919-aac6-295c83387a72",
-                    "path": "<XRController>{RightHand}/deviceRotation",
+                    "path": "<TrackedDevice>{RightHand}/pointerRotation",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
@@ -1584,7 +1584,7 @@
                 {
                     "name": "third",
                     "id": "b9ecb60d-341e-47cf-b50a-41d5815af8b0",
-                    "path": "<XRHandDevice>{RightHand}/deviceRotation",
+                    "path": "",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
@@ -1606,7 +1606,7 @@
                 {
                     "name": "first",
                     "id": "9717e367-64a4-440a-9974-1e641d753eb2",
-                    "path": "<XRController>{RightHand}/pointerPosition",
+                    "path": "<TrackedDevice>{RightHand}/devicePosition",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
@@ -1617,7 +1617,7 @@
                 {
                     "name": "second",
                     "id": "0794a41d-29ef-48ec-a452-6b7de29b52fa",
-                    "path": "<XRController>{RightHand}/devicePosition",
+                    "path": "<TrackedDevice>{RightHand}/pointerPosition",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
@@ -1628,7 +1628,7 @@
                 {
                     "name": "third",
                     "id": "3ef0a781-60c5-48bc-a584-f95553f8ae0a",
-                    "path": "<XRHandDevice>{RightHand}/devicePosition",
+                    "path": "",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
@@ -1639,7 +1639,7 @@
                 {
                     "name": "",
                     "id": "6011e1e6-b2dd-4cb1-8da5-29b03868f2c5",
-                    "path": "<XRController>{RightHand}/*",
+                    "path": "<TrackedDevice>{RightHand}/*",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
@@ -1650,7 +1650,7 @@
                 {
                     "name": "",
                     "id": "03ccbaec-eeca-4fc4-8281-ee1758b4eb9b",
-                    "path": "<XRController>{RightHand}/trackingState",
+                    "path": "<TrackedDevice>{RightHand}/trackingState",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
@@ -1661,7 +1661,7 @@
                 {
                     "name": "",
                     "id": "714d1173-f908-4bca-951c-4adb4eb7b4c5",
-                    "path": "<XRHandDevice>{RightHand}/trackingState",
+                    "path": "",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
@@ -1892,7 +1892,7 @@
                 {
                     "name": "",
                     "id": "1de48aee-890b-4dbb-a02d-51df9bd39db7",
-                    "path": "<XRController>{RightHand}/isTracked",
+                    "path": "<TrackedDevice>{RightHand}/isTracked",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
@@ -1903,7 +1903,7 @@
                 {
                     "name": "",
                     "id": "5a0c4fe0-639a-44e0-beeb-4e11e0dea7ef",
-                    "path": "<XRHandDevice>{RightHand}/isTracked",
+                    "path": "",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
@@ -1947,7 +1947,7 @@
                 {
                     "name": "",
                     "id": "709cc921-f3b0-4dc8-88d4-7787b8a3ced1",
-                    "path": "<XRController>{RightHand}/{Primary2DAxis}",
+                    "path": "<TrackedDevice>{RightHand}/{Primary2DAxis}",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
@@ -2074,7 +2074,7 @@
                 {
                     "name": "",
                     "id": "1ce80054-410d-4112-a332-50faa7fb4f23",
-                    "path": "<XRController>{RightHand}/{GripButton}",
+                    "path": "<TrackedDevice>{RightHand}/{GripButton}",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
@@ -2140,7 +2140,7 @@
                 {
                     "name": "",
                     "id": "dd433817-216c-46b9-8dd3-f3a4ea1767b9",
-                    "path": "<XRController>{RightHand}/{Grip}",
+                    "path": "<TrackedDevice>{RightHand}/{Grip}",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
@@ -2195,7 +2195,7 @@
                 {
                     "name": "",
                     "id": "fa59aed1-ae0b-4074-a58c-294b85f46228",
-                    "path": "<XRController>{RightHand}/{TriggerButton}",
+                    "path": "<TrackedDevice>{RightHand}/{TriggerButton}",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
@@ -2206,7 +2206,7 @@
                 {
                     "name": "",
                     "id": "150f414f-61bf-47b1-b4f8-f772a2a40565",
-                    "path": "<XRController>{RightHand}/{Trigger}",
+                    "path": "<TrackedDevice>{RightHand}/{Trigger}",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
@@ -2217,7 +2217,7 @@
                 {
                     "name": "",
                     "id": "92bb5b8f-bf48-4dab-af05-50a865773895",
-                    "path": "<XRController>{RightHand}/{TriggerButton}",
+                    "path": "<TrackedDevice>{RightHand}/{TriggerButton}",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
@@ -2272,7 +2272,7 @@
                 {
                     "name": "",
                     "id": "5b4ef08d-9ddd-4f0a-8539-d1114d14d143",
-                    "path": "<XRController>{RightHand}/{Trigger}",
+                    "path": "<TrackedDevice>{RightHand}/{Trigger}",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
@@ -2316,7 +2316,7 @@
                 {
                     "name": "",
                     "id": "5c0fa06c-b670-477f-a95d-eb3b4880e439",
-                    "path": "<XRController>{RightHand}/{Primary2DAxis}",
+                    "path": "<TrackedDevice>{RightHand}/{Primary2DAxis}",
                     "interactions": "",
                     "processors": "ScaleVector2(y=0),StickDeadzone",
                     "groups": "",
@@ -2327,7 +2327,7 @@
                 {
                     "name": "",
                     "id": "af6fd279-2f48-4f51-8e9d-29b0b9d926f8",
-                    "path": "<XRController>{RightHand}/{Primary2DAxis}",
+                    "path": "<TrackedDevice>{RightHand}/{Primary2DAxis}",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
@@ -2338,7 +2338,7 @@
                 {
                     "name": "",
                     "id": "d8258e49-f7cc-44d7-bc27-77c2161e2005",
-                    "path": "<XRController>{RightHand}/{Primary2DAxisClick}",
+                    "path": "<TrackedDevice>{RightHand}/{Primary2DAxisClick}",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
@@ -2349,7 +2349,7 @@
                 {
                     "name": "",
                     "id": "ef10c39a-2987-41bb-bb80-0e476240adaa",
-                    "path": "<XRController>{RightHand}/{Primary2DAxis}",
+                    "path": "<TrackedDevice>{RightHand}/{Primary2DAxis}",
                     "interactions": "",
                     "processors": "ScaleVector2(x=0),StickDeadzone",
                     "groups": "",
@@ -2360,7 +2360,7 @@
                 {
                     "name": "",
                     "id": "c4b46d7d-8231-4672-83f9-75af565faf57",
-                    "path": "<XRController>{RightHand}/{Primary2DAxis}",
+                    "path": "<TrackedDevice>{RightHand}/{Primary2DAxis}",
                     "interactions": "",
                     "processors": "StickDeadzone",
                     "groups": "",
@@ -2371,7 +2371,7 @@
                 {
                     "name": "",
                     "id": "4caf4e8d-13e5-4bd6-8f42-b6b99c315ad0",
-                    "path": "<XRController>{RightHand}/{Primary2DAxis}",
+                    "path": "<TrackedDevice>{RightHand}/{Primary2DAxis}",
                     "interactions": "",
                     "processors": "ScaleVector2(x=0),StickDeadzone",
                     "groups": "",
@@ -2453,7 +2453,7 @@
                 {
                     "name": "",
                     "id": "62690862-4688-4010-975b-b3d9c6062157",
-                    "path": "<XRController>{RightHand}/{Primary2DAxis}",
+                    "path": "<TrackedDevice>{RightHand}/{Primary2DAxis}",
                     "interactions": "Sector(directions=1)",
                     "processors": "",
                     "groups": "",
@@ -2464,7 +2464,7 @@
                 {
                     "name": "",
                     "id": "de466e6e-12bf-46a1-b0fd-ffbc343f3399",
-                    "path": "<XRController>{RightHand}/{GripButton}",
+                    "path": "<TrackedDevice>{RightHand}/{GripButton}",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
@@ -2475,7 +2475,7 @@
                 {
                     "name": "",
                     "id": "d6c08c3d-3d41-4695-994d-1ac9016a5a9e",
-                    "path": "<XRController>{RightHand}/{Primary2DAxis}",
+                    "path": "<TrackedDevice>{RightHand}/{Primary2DAxis}",
                     "interactions": "Sector(directions=12,sweepBehavior=1),Sector(directions=2,sweepBehavior=2)",
                     "processors": "",
                     "groups": "",
@@ -2486,7 +2486,7 @@
                 {
                     "name": "",
                     "id": "022046aa-be71-4288-859d-6dd42844f6e6",
-                    "path": "<XRController>{RightHand}/{Primary2DAxis}",
+                    "path": "<TrackedDevice>{RightHand}/{Primary2DAxis}",
                     "interactions": "",
                     "processors": "StickDeadzone",
                     "groups": "",
@@ -2497,7 +2497,7 @@
                 {
                     "name": "",
                     "id": "7ecb549e-ab98-4a4b-b979-38068fe3b811",
-                    "path": "<XRController>{RightHand}/{GripButton}",
+                    "path": "<TrackedDevice>{RightHand}/{GripButton}",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
@@ -2508,7 +2508,7 @@
                 {
                     "name": "",
                     "id": "31d838df-4d4e-4c16-a373-b9c07d9d2e2a",
-                    "path": "<XRController>{RightHand}/{Primary2DAxis}",
+                    "path": "<TrackedDevice>{RightHand}/{Primary2DAxis}",
                     "interactions": "Sector(directions=12,sweepBehavior=1),Sector(directions=2,sweepBehavior=2)",
                     "processors": "",
                     "groups": "",
@@ -2519,7 +2519,7 @@
                 {
                     "name": "",
                     "id": "052b129b-fc83-4b33-a606-af10ad595c3e",
-                    "path": "<XRController>{RightHand}/{PrimaryButton}",
+                    "path": "<TrackedDevice>{RightHand}/{PrimaryButton}",
                     "interactions": "",
                     "processors": "",
                     "groups": "",

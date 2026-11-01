@@ -50,10 +50,9 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: M_Cat_Gray_Fur
-  m_Shader: {fileID: -6465566751694194690, guid: 8efe21194fc0b284f835463b5e667ead,
-    type: 3}
+  m_Shader: {fileID: -6465566751694194690, guid: 8efe21194fc0b284f835463b5e667ead, type: 3}
   m_Parent: {fileID: 2100000, guid: 563727ea110fc7542b76d64add700b34, type: 2}
-  m_ModifiedSerializedProperties: 16
+  m_ModifiedSerializedProperties: 0
   m_ValidKeywords:
   - _ALPHATEST_ON
   - _BUILTIN_ALPHATEST_ON

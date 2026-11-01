@@ -21,8 +21,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Magic Blue
-  m_Shader: {fileID: -6465566751694194690, guid: ea8743678e7372c4b91a2c497c322300,
-    type: 3}
+  m_Shader: {fileID: -6465566751694194690, guid: ea8743678e7372c4b91a2c497c322300, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords:
@@ -34,10 +33,9 @@ Material:
   m_LightmapFlags: 2
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
-  m_CustomRenderQueue: 2450
+  m_CustomRenderQueue: 2225
   stringTagMap:
     MotionVector: User
-    RenderType: Opaque
   disabledShaderPasses:
   - TransparentDepthPrepass
   - TransparentDepthPostpass
@@ -217,7 +215,7 @@ Material:
     m_Colors:
     - _Color: {r: 0, g: 0.54705906, b: 1, a: 1}
     - _DoubleSidedConstants: {r: 1, g: 1, b: -1, a: 0}
-    - _EmissionColor: {r: 0.22984244, g: 1.1388443, b: 2.1185472, a: 1}
+    - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
     - _Emission_Color: {r: 1.0113206, g: 3.9579635, b: 8, a: 1}
     - _Offset: {r: 0, g: 0, b: 0, a: 0}
     - _Rough_MinMax: {r: 0, g: 1, b: 0, a: 0}

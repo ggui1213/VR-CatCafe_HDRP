@@ -50,10 +50,9 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: M_Cat_Black_Fur_Magic
-  m_Shader: {fileID: -6465566751694194690, guid: 8efe21194fc0b284f835463b5e667ead,
-    type: 3}
+  m_Shader: {fileID: -6465566751694194690, guid: 8efe21194fc0b284f835463b5e667ead, type: 3}
   m_Parent: {fileID: 2100000, guid: 9dd6b6bcf4641d741a45dd6ab6e4bad5, type: 2}
-  m_ModifiedSerializedProperties: 16
+  m_ModifiedSerializedProperties: 0
   m_ValidKeywords:
   - _ALPHATEST_ON
   - _BUILTIN_ALPHATEST_ON
